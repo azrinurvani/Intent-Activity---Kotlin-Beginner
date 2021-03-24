@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kotlin Beginner -Intent Activity</string>
+    <string name="dial_phone">DIAL PHONE</string>
+    <string name="send_sms">SEND SMS</string>
+    <string name="data_dari_result_activity">Data dari ResultActivity</string>
+    <string name="result_activity">RESULT ACTIVITY</string>
+    <string name="object_activity">OBJECT ACTIVITY</string>
+    <string name="plat_nomor">Plat nomor</string>
+    <string name="bahan_bakar">Bahan bakar</string>
+    <string name="tahun_kendaraan">Tahun kendaraan</string>
+    <string name="bekas">Bekas</string>
+    <string name="baru">Baru</string>
+    <string name="kondisi">Kondisi</string>
+    <string name="merk">Merk</string>
+    <string name="data_activity">DATA ACTIVITY</string>
+    <string name="masukkan_nama_anda">Masukkan nama anda</string>
+    <string name="masukkan_usia_anda">Masukkan usia anda</string>
+    <string name="move_activity">MOVE ACTIVITY</string>
+    <string name="masukkan_nilai_string">Masukkan nilai string</string>
+</resources>
